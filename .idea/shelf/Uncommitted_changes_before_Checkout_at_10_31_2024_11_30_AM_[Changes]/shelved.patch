@@ -1,0 +1,18 @@
+Index: demo-git/Readme.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+># Create project\r\n## Phuong Dong\r\n## Tuan\r\n## Khang
+===================================================================
+diff --git a/demo-git/Readme.md b/demo-git/Readme.md
+--- a/demo-git/Readme.md	(revision 7cf67433f886024eb4c8236f2f956243fc011729)
++++ b/demo-git/Readme.md	(date 1730348347922)
+@@ -1,4 +1,4 @@
+ # Create project
+-## Phuong Dong
+-## Tuan
+-## Khang
+\ No newline at end of file
++## Phuong Dongdfd
++## Tuandfdfd
++## Khangfdfdfd
+\ No newline at end of file
