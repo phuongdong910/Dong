@@ -10,5 +10,6 @@
 <br/>
 <a href="hello-servlet">Hello Servlet</a>
 <h2>there nothing else</h2>
+<h1>there is some picture</h1>
 </body>
 </html>
